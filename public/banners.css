@@ -1,0 +1,7 @@
+.banners .banner {
+  display: none;
+}
+
+.banners .banner.active{
+  display: block;
+}
